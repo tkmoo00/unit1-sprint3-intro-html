@@ -35,13 +35,11 @@ h6 {
 .header-ul li {
   display: flex;
   border: none;
-  background-color: pink;
   width: 100px;
   height: 50px;
   border-radius: 15%;
   align-items: center;
   justify-content: center;
-  border: 1px solid gray;
 }
 
 .header-ul li a {
